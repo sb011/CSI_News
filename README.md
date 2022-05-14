@@ -9,10 +9,10 @@ In todays world people have no time to be updated through newspaper or watching 
 
 ## Major Functionalities: 
 - Login, Register, Logout 
-- Update profile , Upload ProfilePicture
+- Update profile, Upload ProfilePicture
 - Add, Delete, Update News
 - Save, Unsave News
-- Add ,View Comments to the News.
+- Add, View Comments to the News.
 - Search News by category, topic
 
 <br>
@@ -28,7 +28,7 @@ git clone "https://github.com/ishita0202/CSI_News.git"
 nodemon server.js
 ```
 
-2. To start project
+3. To start project
 ```
 cd client
 npm install react-script --save
